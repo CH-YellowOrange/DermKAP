@@ -1,0 +1,13 @@
+transformers
+huggingface_hub
+numpy
+pandas
+pillow
+imagehash
+scipy
+scikit-learn
+matplotlib
+networkx
+pyvis
+tqdm
+ipykernel

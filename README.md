@@ -5,7 +5,7 @@ Official code for **DermKAP** (**Derm**atology **K**nowledge-structured **A**ttr
 Skin disease classifiers recognize only the conditions in their training data. DermKAP lets a frozen dermatology foundation model ([MONET](https://huggingface.co/suinleelab/monet)) recognize diseases **without any training images** by turning a curated dermatology knowledge graph (KG) into structured text prompts.
 
 <p align="center">
-  <img src="figures_v2b/figKG1_whole_graph.png" width="720" alt="DermKAP knowledge graph">
+  <img src="figKG1_whole_graph.png" width="720" alt="DermKAP knowledge graph">
 </p>
 
 ## Method
